@@ -1,0 +1,81 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Gilroy, Arial, sans-serif, Apple Color Emoji;
+}
+
+#th2 {
+  padding-left: 1350px;
+}
+
+img {
+  width: 40;
+  height: 40;
+  padding-left: 60px;
+  padding-top: 40px;
+}
+
+h4 {
+  padding-left: 100;
+  padding-top: 300;
+}
+
+#th3 {
+  padding-left: 100px;
+  padding-top: 150;
+  color: #161f38;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: lighter;
+  padding-right: 140;
+  text-align: justify;
+}
+
+#th4 {
+  padding-left: center;
+  padding-top: 120;
+}
+
+#th5 {
+  padding-left: 500px;
+  padding-right: 60;
+  padding-top: 120;
+}
+
+.list-sec {
+  list-style-type: none;
+  padding-top: 30;
+  transform: rotate(270deg);
+  margin-top: 30;
+}
+
+#li1 {
+  text-decoration: none;
+  font-size: 0.8125rem;
+  color: #8a8f9b;
+  background-color: transparent;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+#th6 {
+  font-family: Gilroy, Arial, sans-serif, Apple Color Emoji;
+  font-weight: bold;
+  padding-top: 40;
+}
+
+#th7 {
+  padding-left: 1350px;
+  color: #161f38;
+  font-family: Gilroy, Arial, sans-serif, Apple Color Emoji;
+  padding-top: 40;
+}
+
+.trlast {
+  padding-top: 100;
+  padding-left: 60px;
+}
